@@ -1,4 +1,4 @@
-money-tracker-app
+# money-tracker-app
 
 The financial tracking app allows management and financial supervision.
 Includes:
